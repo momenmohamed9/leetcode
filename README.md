@@ -7,6 +7,7 @@ tasks
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/momenmohamed9/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/momenmohamed9/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/momenmohamed9/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,8 @@ tasks
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/momenmohamed9/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/momenmohamed9/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
